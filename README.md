@@ -33,7 +33,7 @@ A full list lives in [Repositories](https://github.com/mike-k-git?tab=repositori
 ### Reach me
 
 - **Email** &nbsp; mkugan@proton.me
-- **LinkedIn** &nbsp; [linkedin.com/in/your-handle](https://www.linkedin.com/in/mkugan)
+- **LinkedIn** &nbsp; [linkedin.com/in/mkugan](https://www.linkedin.com/in/mkugan)
 - **Location** &nbsp; Berlin, DE
 
 ---
