@@ -17,8 +17,11 @@ Interested in **backend, platform, integrations** and **ad-tech / mar-tech** rol
 ### Tech I work with
 
 **Languages** &nbsp;&nbsp; Go · TypeScript · Python · C · Bash · SQL
+
 **Backend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Node.js · REST · webhooks · CLI tooling
+
 **Systems** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linux · Unix · Git · Make · Docker
+
 **Domain** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; tracking & attribution · conversion funnels · fraud detection · compliance
 
 ### Selected projects
